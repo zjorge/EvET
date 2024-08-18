@@ -1,0 +1,14 @@
+{
+  "appIsExample": false,
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "color": "#ECECEC",
+  "evaluationVersion": 2,
+  "icon": "product",
+  "pages": [
+    {
+      "id": "Pacientes",
+      "isDefault": true
+    }
+  ]
+}
